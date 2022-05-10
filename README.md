@@ -3,7 +3,7 @@ Collection of SunHaven Mods
 
 ### General installation
 
-Requires BepInEx 5 installed into the "...\steamapps\common\Sun Haven" directory
+Requires BepInEx 5 x64 (as Sun Haven is a 64-bit executable) installed into the "...\steamapps\common\Sun Haven" directory
 
 https://github.com/BepInEx/BepInEx/releases/
 
