@@ -8,6 +8,7 @@ Requires BepInEx 5 installed into the "...\steamapps\common\Sun Haven" directory
 https://github.com/BepInEx/BepInEx/releases/
 
 If mods arent loading, check you have the correct version and architure installed (5 or 6, x86, x64)
+Note, its architecture of the game, not of your operating system.
 
 Extract zip archive directly into the "...\steamapps\common\Sun Haven" directory.
 
