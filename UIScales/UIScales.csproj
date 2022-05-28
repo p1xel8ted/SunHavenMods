@@ -45,6 +45,9 @@
     <Reference Include="DOTween">
       <HintPath>..\..\..\..\Games\steamapps\common\Sun Haven\Sun Haven_Data\Managed\DOTween.dll</HintPath>
     </Reference>
+    <Reference Include="Unity.TextMeshPro">
+      <HintPath>..\..\..\..\Games\steamapps\common\Sun Haven\Sun Haven_Data\Managed\Unity.TextMeshPro.dll</HintPath>
+    </Reference>
     <Reference Include="UnityEngine.UI">
       <HintPath>..\..\..\..\Games\steamapps\common\Sun Haven\Sun Haven_Data\Managed\UnityEngine.UI.dll</HintPath>
     </Reference>
